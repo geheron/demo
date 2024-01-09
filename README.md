@@ -1,4 +1,4 @@
 # demo
 This is a demo repository for learning purpose of internship.
 <br>
-Author - Geheron
+Author - Geheron Aribam
